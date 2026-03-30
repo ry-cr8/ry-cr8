@@ -10,7 +10,9 @@ I am a second-year Information Technology student with a strong passion for lear
 - 🎨 CSS   
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kixxy-a11y&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kixxy-a11y&layout=compact&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kixxy-a11y&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kixxy-a11y&theme=tokyonight)
 
